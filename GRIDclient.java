@@ -1,4 +1,4 @@
-package edu.ucdenver.cse.GRID.GRIDclient;
+package edu.ucdenver.cse.GRIDclient;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
